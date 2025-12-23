@@ -1,6 +1,6 @@
 from os import getenv
 
-API_ID = int(getenv("API_ID", "13335263"))
+API_ID = int(getenv("API_ID", "38984953"))
 API_HASH = getenv("API_HASH", "")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 OWNER_ID = int(getenv("OWNER_ID", ""))
